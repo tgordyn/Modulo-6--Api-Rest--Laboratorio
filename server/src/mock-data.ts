@@ -4,7 +4,7 @@ import { Character } from "./model.js";
 export const characters: Character[] = [
   {
     id: 1,
-    name: 'Rick Sanchez',
+    name: 'Rick Sanchez!!',
     status: 'Alive',
     species: 'Human',
     type: '',
